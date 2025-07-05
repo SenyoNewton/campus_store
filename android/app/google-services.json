@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162013297404",
+    "project_id": "campus-store-htu",
+    "storage_bucket": "campus-store-htu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162013297404:android:11317ff22413cf1ccb7579",
+        "android_client_info": {
+          "package_name": "com.example.campus_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162013297404-uhurlubtdl8o4dc245cn4mkt1j0buf2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgSIgwGCxjt2AGmMcbWNVl1skevGlNAK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162013297404-uhurlubtdl8o4dc245cn4mkt1j0buf2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
